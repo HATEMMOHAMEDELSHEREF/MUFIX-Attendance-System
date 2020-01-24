@@ -1,0 +1,20 @@
+/*
+Make Sub Menu
+<li><a>name</a>
+<ul class="submenu">
+<li><a href="#">Graphics </a></li>
+<li><a href="#">Vectors </a></li>
+<li><a href="#">Photoshop </a></li>
+<li><a href="#">Fonts </a></li>
+</ul></li>
+*/
+/*
+Make Lable Badge
+
+<span class="jquery-accordion-menu-label">12 </span>
+*/
+/*
+Make Footer For Side Bar
+<div class="jquery-accordion-menu-footer">Footer </div>
+add this after ul
+*/
